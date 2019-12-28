@@ -1,1 +1,9 @@
 hello world!
+11
+git clone http。。。
+git pull origin master
+
+git add *
+修改文件添加到上传列表
+git commit - m'此处添加注释'
+git push origin master
